@@ -13,7 +13,7 @@ A full-featured Java application for managing personal expenses with user authen
 - **Language:** Java
 - **Database:** MySQL
 - **Database Connection:** JDBC
-- **Tools:** Eclipse / IntelliJ IDEA
+- **Tools:** Eclipse / IntelliJ IDEA/VScode
 
 ## How to Run
 1. Clone repository: `git clone github.com/Nehamore24/javaproject3`
